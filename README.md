@@ -10,11 +10,11 @@ em seguida ele irá criar o algoritmo, e iniciar ele para testar:
 <p>
   <img src="resultado.png" width="auto" height="100%">
 </p>
-arqivo de saída criado pelo algoritmo:
+arquivo de saída criado pelo algoritmo:
 <p>
   <img src="algoritmo.png" width="auto" height="100%">
 </p>
-para realizar a instalação de dependências, basta digitaro nome dele, seguido de qualquer coisa.
+para realizar a instalação de dependências, basta digitar o nome dele, seguido de qualquer coisa.
 <p>
   <img src="instalacao.png" width="auto" height="100%">
  </p>
