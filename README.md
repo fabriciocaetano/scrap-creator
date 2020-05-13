@@ -1,7 +1,7 @@
 # web-scrap creator
 um algoritmo em ShellScript que é capaz de criar outro algoritmo para realizar web scrapping de um determinado serviço, bastando informar o nome de saída do algoritmo, o site, e os seletores css.
 
-##usando como exemplo abaixo o canal tech
+## usando como exemplo abaixo o canal tech
 temos aqui a nossa tela de inicio, ele irá te pedir informações necessárias para a criação do pequeno algoritmo:
 <p>
   <img src="inicio.png" width="auto" height="100%">
